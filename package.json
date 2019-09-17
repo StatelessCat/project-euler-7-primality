@@ -1,0 +1,22 @@
+{
+  "name": "euler-1-primality",
+  "version": "0.0.1",
+  "description": "project-euler-7-primality",
+  "main": "euler1primality.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "dependencies": {
+    "@babel/polyfill": "^7.6.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.6.0",
+    "@babel/core": "^7.6.0",
+    "@babel/plugin-transform-arrow-functions": "^7.2.0",
+    "@babel/preset-env": "^7.6.0",
+    "babel-preset-es3": "^1.0.1",
+    "uglify-js": "^3.6.0"
+  }
+}
